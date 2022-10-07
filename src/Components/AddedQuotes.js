@@ -43,7 +43,7 @@ color:${props => {
     font-size:${
     props => {
     if (props.font === "Author")
-        return "5rem"
+        return "8rem"
     }
     }
 

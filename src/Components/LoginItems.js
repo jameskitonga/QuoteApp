@@ -153,7 +153,7 @@ const LoginItems = () => {
                     </LoginEmailPasswardButton>
 
 
-        </LogIn>
+                </LogIn>
             </LogInItems>
 
 
