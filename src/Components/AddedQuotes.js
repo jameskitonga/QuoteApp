@@ -39,11 +39,10 @@ color:${props => {
         else if (props.color == "purple") {
             return "purple"
         }
-}}
-    font-size:${
-    props => {
-    if (props.font === "Author")
-        return "8rem"
+    }}
+    font-size:${props => {
+        if (props.font === "Author")
+            return "8rem"
     }
     }
 
@@ -86,7 +85,7 @@ const AddedQuote = () => {
         dislike: false,
     });
 
-    
+
 
 
 
